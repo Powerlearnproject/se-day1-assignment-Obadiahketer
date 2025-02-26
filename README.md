@@ -24,7 +24,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 5. Testing - examine the software for any bugs and glitches
    
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall Methodology: A linear and sequential approach where each phase is completed before moving to the next. It has low flexibility, making changes difficult after a phase is finished. Customer feedback comes late, and testing is done only at the end.
+Waterfall Methodology:A linear and sequential approach where each phase is completed before moving to the next. It has low flexibility, making changes difficult after a phase is finished. Customer feedback comes late, and testing is done only at the end.
 
 Agile Methodology: An iterative and incremental approach with multiple sprints. It is highly flexible and adapts to changing requirements. Regular customer feedback is incorporated into each sprint, and testing is continuous throughout development.
 
